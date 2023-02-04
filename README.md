@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeonardoGomesAlves
-- 🌱 I’m currently learning Software Engineering at UMinho
+- 🌱 I’m currently attending the 1st year of Software Engineering at UMinho
 
 <!---
 LeonardoGomesAlves/LeonardoGomesAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
