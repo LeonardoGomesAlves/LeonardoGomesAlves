@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying Software Engineering at Universidade do Minho, Portugal<br>👯 I’m always looking forward to collaborate on Open-Source Projects<br>🌱 I’m currently learning Python<br>⚡ I like to travel<br>💻 I'm a gamer, mainly FPS and Simracing
+🔭 I'm currently studying Software Engineering at Universidade do Minho, Portugal<br>👯 I’m always looking forward to collaborate on Open-Source Projects<br>🌱 I’m currently learning Python<br>💻 I'm a gamer, mainly FPS and Simracing
 
 
 ## 🌐 Socials:
